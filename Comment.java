@@ -3,7 +3,7 @@ package com.MppProject.models;
 import javax.persistence.*;
 
 /**
- * Created by student on 7/13/17.
+ * 
  */
 @Entity
 public class Comment {
